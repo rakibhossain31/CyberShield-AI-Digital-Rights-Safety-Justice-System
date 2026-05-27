@@ -1,0 +1,38 @@
+{
+  "harassment": [
+    "Preserve screenshots before blocking.",
+    "Avoid direct retaliation.",
+    "Report abusive accounts on the platform.",
+    "Tell a trusted person if threats escalate."
+  ],
+  "blackmail": [
+    "Do not pay without seeking support.",
+    "Preserve all demands and deadlines.",
+    "Escalate immediately if intimate images or physical harm are threatened."
+  ],
+  "hacking": [
+    "Change passwords from a clean device.",
+    "Enable multi-factor authentication.",
+    "Check account recovery email and phone settings."
+  ],
+  "impersonation": [
+    "Save the profile URL and screenshots.",
+    "Report the fake profile to the platform.",
+    "Warn close contacts if the fake account is contacting them."
+  ],
+  "doxxing": [
+    "Document exposed information and where it appeared.",
+    "Review physical safety needs.",
+    "Request platform removal quickly."
+  ],
+  "financial_fraud": [
+    "Contact bank/wallet provider quickly.",
+    "Preserve receipts and transaction IDs.",
+    "Avoid sending additional money."
+  ],
+  "other": [
+    "Preserve evidence.",
+    "Document the timeline.",
+    "Seek trusted support if harm escalates."
+  ]
+}

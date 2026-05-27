@@ -1,0 +1,15 @@
+app:
+  name: CyberShield AI
+  mode: safe_demo
+  db_path: artifacts/cybershield.db
+  knowledge_base: data/demo/legal_knowledge.md
+
+safety:
+  require_human_review: true
+  allow_real_submission: false
+  allow_public_offender_identity: false
+  default_salt: change-this-demo-salt
+
+risk:
+  urgent_threshold: 75
+  medium_threshold: 45

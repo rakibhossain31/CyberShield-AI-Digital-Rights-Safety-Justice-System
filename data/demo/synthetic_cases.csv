@@ -1,0 +1,21 @@
+case_id,label,statement,location,platform,suspect_identifier,evidence_name
+synthetic_0001,impersonation,A fake profile is using my photo and pretending to be me on gmail.,Chattogram,gmail,unknown-login,evidence_1.txt
+synthetic_0002,impersonation,A fake profile is using my photo and pretending to be me on facebook.,Sylhet,facebook,@serial_abuser,evidence_2.txt
+synthetic_0003,financial_fraud,I sent money through a wallet transaction and the seller disappeared.,Khulna,instagram,unknown-login,evidence_3.txt
+synthetic_0004,financial_fraud,I sent money through a wallet transaction and the seller disappeared.,Khulna,telegram,@serial_abuser,evidence_4.txt
+synthetic_0005,harassment,Someone is sending repeated abusive messages and threats on marketplace.,Sylhet,marketplace,seller-452,evidence_5.txt
+synthetic_0006,impersonation,A fake profile is using my photo and pretending to be me on whatsapp.,Rajshahi,whatsapp,seller-452,evidence_6.txt
+synthetic_0007,hacking,My account had an unauthorized login and the password recovery phone was changed.,Khulna,telegram,@serial_abuser,evidence_7.txt
+synthetic_0008,blackmail,A person is demanding money and threatening to leak private photos tonight on whatsapp.,Dhaka,whatsapp,unknown-login,evidence_8.txt
+synthetic_0009,doxxing,My address and phone number were posted publicly and people are threatening me.,Barishal,marketplace,unknown-login,evidence_9.txt
+synthetic_0010,hacking,My account had an unauthorized login and the password recovery phone was changed.,Dhaka,gmail,@fakeprofile,evidence_10.txt
+synthetic_0011,harassment,Someone is sending repeated abusive messages and threats on whatsapp.,Sylhet,whatsapp,@fakeprofile,evidence_11.txt
+synthetic_0012,impersonation,A fake profile is using my photo and pretending to be me on marketplace.,Barishal,marketplace,unknown-login,evidence_12.txt
+synthetic_0013,harassment,Someone is sending repeated abusive messages and threats on instagram.,Sylhet,instagram,@shadow_user,evidence_13.txt
+synthetic_0014,doxxing,My address and phone number were posted publicly and people are threatening me.,Sylhet,telegram,@serial_abuser,evidence_14.txt
+synthetic_0015,harassment,Someone is sending repeated abusive messages and threats on gmail.,Chattogram,gmail,@fakeprofile,evidence_15.txt
+synthetic_0016,blackmail,A person is demanding money and threatening to leak private photos tonight on whatsapp.,Dhaka,whatsapp,@shadow_user,evidence_16.txt
+synthetic_0017,harassment,Someone is sending repeated abusive messages and threats on marketplace.,Khulna,marketplace,seller-452,evidence_17.txt
+synthetic_0018,blackmail,A person is demanding money and threatening to leak private photos tonight on telegram.,Chattogram,telegram,+880-demo-1,evidence_18.txt
+synthetic_0019,harassment,Someone is sending repeated abusive messages and threats on marketplace.,Chattogram,marketplace,@shadow_user,evidence_19.txt
+synthetic_0020,hacking,My account had an unauthorized login and the password recovery phone was changed.,Chattogram,facebook,@serial_abuser,evidence_20.txt

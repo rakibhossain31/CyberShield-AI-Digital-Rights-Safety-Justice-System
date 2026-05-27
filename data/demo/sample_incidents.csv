@@ -1,0 +1,5 @@
+case_id,label,statement,location,platform,suspect_identifier,evidence_name
+case_demo_001,harassment,Someone on social media is sending repeated abusive messages and threatening to post edited photos.,Dhaka,facebook,@shadow_user,screenshot1.png
+case_demo_002,hacking,My email was accessed without permission and recovery phone was changed.,Chattogram,gmail,unknown-login,login_alert.txt
+case_demo_003,blackmail,A person is demanding money and says they will leak private photos tonight.,Sylhet,whatsapp,+880 demo number,chat_export.txt
+case_demo_004,impersonation,A fake profile is using my photo and messaging my friends asking for money.,Rajshahi,facebook,@fake_profile,profile_screenshot.png

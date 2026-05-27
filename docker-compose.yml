@@ -1,0 +1,21 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app/src
+      - CYBERSHIELD_DB_PATH=/app/artifacts/cybershield.db
+    volumes:
+      - ./artifacts:/app/artifacts
+
+  dashboard:
+    build: .
+    command: streamlit run dashboards/streamlit_dashboard.py --server.address 0.0.0.0 --server.port 8501
+    ports:
+      - "8501:8501"
+    environment:
+      - PYTHONPATH=/app/src
+      - CYBERSHIELD_DB_PATH=/app/artifacts/cybershield.db
+    volumes:
+      - ./artifacts:/app/artifacts
