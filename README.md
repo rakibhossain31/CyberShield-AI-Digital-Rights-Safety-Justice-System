@@ -87,10 +87,6 @@ tests/                    Automated tests
 ```
 
 ## Safety rules
-
-- Use synthetic data only.
-- Do not upload real victim data to GitHub.
-- Do not expose suspect identities publicly.
 - Keep all legal outputs human-reviewed.
 - Treat model outputs as support, not decisions.
 - Replace the demo legal knowledge base with verified legal content before any real deployment.
