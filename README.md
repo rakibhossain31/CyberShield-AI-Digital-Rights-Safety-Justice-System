@@ -91,6 +91,3 @@ tests/                    Automated tests
 - Treat model outputs as support, not decisions.
 - Replace the demo legal knowledge base with verified legal content before any real deployment.
 
-## Recruiter-facing summary
-
-This project demonstrates AI product engineering, backend APIs, privacy-aware NLP, RAG-style retrieval, digital evidence integrity, monitoring, auditability, and safety-by-design for a sensitive public-interest use case.
